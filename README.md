@@ -1,7 +1,8 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F68097599%2FBanner-Images-for-Coding-Challenges&psig=AOvVaw1lQamFcGinQ67Of3Qaux1C&ust=1715852450203000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjKvNGuj4YDFQAAAAAdAAAAABBB))](https://RahimaKarimova.io)
+
 <h1 align="center">Hi 👋, I'm Rahima</h1>
 <h3 align="center">A passionate IT student</h3>
-(img align="right" alt="Coding" width="400" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/045/633/original/Coding_Cat.gif?1662445143")
+<img align="right" alt="Coding" width="400" src="https://github.com/RahimaKarimova/RahimaKarimova/assets/118609255/65741498-28f6-4931-b3c3-407c4a42d45e">
+
 
 - 🌱 I’m currently learning **Docker Desktop**
 
